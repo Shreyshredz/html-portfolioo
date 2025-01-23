@@ -61,14 +61,14 @@ nav{
     left: 0;
     width: 0%;
     height: 3px;
-    background-color: purple;
+    background-color: #e4011d;
     transition: 0.2s linear;
 }
 .nav-container .links a:hover::before{
     width: 100%;
 }
 .nav-container .links a:hover{
-    color: purple;
+    color: #e4011d         ;
 }
 .dropdown{
     z-index: 100;
@@ -91,7 +91,7 @@ nav{
     transition: 0.2s linear;
 }
 .dropdown .links a:hover{
-    background-color: purple;
+    background-color: #e4011d;
 }
 section{
     width: 100%;
